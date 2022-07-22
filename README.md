@@ -4,7 +4,7 @@
 
 - Reduce repeated code and enhance objects using inheritance.
   - Define two classes, one of which inherits from another.
-  - Define methods inthe child class that use the `super` keyword to inherit
+  - Define methods in the child class that use the `super` keyword to inherit
     from and augment methods in the parent class.
 - Accomplish complex programming tasks using knowledge from previous modules.
 
