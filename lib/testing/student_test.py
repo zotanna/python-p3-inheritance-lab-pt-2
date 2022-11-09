@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from lib.student import Student, ChattyStudent
+from student import Student, ChattyStudent
 
 import io
 import sys
