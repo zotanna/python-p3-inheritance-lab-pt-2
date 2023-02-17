@@ -1,4 +1,4 @@
-# Object Inheritance Lab, Part Two
+# Object Inheritance Lab Part Two
 
 ## Learning Goals
 
